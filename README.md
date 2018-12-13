@@ -13,4 +13,4 @@ This repository you will find project in the notebook file named :open_file_fold
 • Compare the box plot to alternatives.
 
 
-For more information about the instruction for this project read [Project_fund_da.pdf](https://github.com/npradaschnor/Fundamental-for-Data-Analysis-Project2018/blob/master/project_fund_da.pdf).
+For more information about the instruction for this project read [project_fund_da.pdf](https://github.com/npradaschnor/Fundamental-for-Data-Analysis-Project2018/blob/master/project_fund_da.pdf).
