@@ -16,6 +16,6 @@ This repository you will find project in the notebook file named :open_file_fold
 • Compare the box plot to alternatives.
 
 
-The data set used to create examples of box plot was from a survey from [Integrated Mapping for the Sustainable Development of Ireland’s Marine Resource - INFOMAR](https://www.infomar.ie/), a *'twenty year programme to map the physical, chemical and biological features of Ireland’s seabed'*.
+The data set used to create examples of box plot is from [Integrated Mapping for the Sustainable Development of Ireland’s Marine Resource - INFOMAR](https://www.infomar.ie/), a *'twenty year programme to map the physical, chemical and biological features of Ireland’s seabed'*.
 
 For more information about the instructions for this project read: :open_file_folder:[project_fund_da.pdf](https://github.com/npradaschnor/Fundamental-for-Data-Analysis-Project2018/blob/master/project_fund_da.pdf).
