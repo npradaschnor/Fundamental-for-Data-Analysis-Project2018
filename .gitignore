@@ -1,3 +1,6 @@
+.*  # ignore all hidden files and folders
+!/.gitignore  # explicitly do not ignore .gitignore
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
@@ -74,6 +77,9 @@ target/
 
 .ipynb_checkpoints
 */.ipynb_checkpoints/*
+
+.ipynb_checkpoints
+**/*.ipynb_checkpoints/
 
 # pyenv
 .python-version
